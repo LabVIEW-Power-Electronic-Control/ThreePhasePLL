@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-11-09 10:38:33" Modified_Date="2017-11-09 12:00:26" Creator="Brian Kindinger" Comments="" ID="4c74245898db10bbfc8fb16ee44dddaa">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-11-09 10:38:33" Modified_Date="2018-01-10 12:03:12" Creator="Brian Kindinger" Comments="" ID="082fb0e02123823ea7ab94165917c3c3">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_PEC_Three_Phase_PLL</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -18,6 +18,7 @@
   <Advanced_Settings>
     <Package_Dependencies>
       <Additional_External_Dependencies>national_instruments_lib_ni_floating_point_library &gt;=1.0.0.15</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_lvjson &gt;=1.0.0.57</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_ni_floating_point_library_addon &gt;=1.0.0.4</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
@@ -35,7 +36,8 @@
       <Copyright/>
       <Packager>National Instruments</Packager>
       <URL>https://github.com/LabVIEW-Power-Electronic-Control/ThreePhasePLL</URL>
-      <Release_Notes>[BLK 11/9/2017]  Initial build.</Release_Notes>
+      <Release_Notes>[BLK 11/9/2017]  Initial build.
+[BLK 1/10/2018]  Saves configuration to temp file</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

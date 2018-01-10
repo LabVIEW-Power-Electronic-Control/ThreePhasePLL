@@ -412,7 +412,7 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
-		<Item Name="CoreTestHarness.vi" Type="VI" URL="../../CoreTestHarness.vi"/>
+		<Item Name="CoreTestHarness.vi" Type="VI" URL="../CoreTestHarness.vi"/>
 		<Item Name="InterfaceTest.vi" Type="VI" URL="../InterfaceTest.vi"/>
 		<Item Name="ThreePhasePLLInterface.lvlib" Type="Library" URL="../Interface/ThreePhasePLLInterface.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
