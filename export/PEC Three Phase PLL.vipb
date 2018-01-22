@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-11-09 10:38:33" Modified_Date="2018-01-10 14:02:57" Creator="Brian Kindinger" Comments="" ID="ecc66e6b4d46c3886f0b2709b9670e32">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-11-09 10:38:33" Modified_Date="2018-01-22 15:17:51" Creator="Brian Kindinger" Comments="" ID="75a8773b30ad746fa324be7f609123e0">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_PEC_Three_Phase_PLL</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
