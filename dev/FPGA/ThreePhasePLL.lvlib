@@ -10,5 +10,6 @@
 	<Item Name="AddressSpace.lvclass" Type="LVClass" URL="../AddressSpace.lvclass"/>
 	<Item Name="Core.vi" Type="VI" URL="../Core.vi"/>
 	<Item Name="createRegisters.vi" Type="VI" URL="../createRegisters.vi"/>
+	<Item Name="HarmonicFilter.ctl" Type="VI" URL="../HarmonicFilter.ctl"/>
 	<Item Name="registers.ctl" Type="VI" URL="../registers.ctl"/>
 </Library>

@@ -11,6 +11,8 @@
 	<Item Name="Configure.vi" Type="VI" URL="../Configure.vi"/>
 	<Item Name="detectedFreq.vi" Type="VI" URL="../detectedFreq.vi"/>
 	<Item Name="getContext.vi" Type="VI" URL="../getContext.vi"/>
+	<Item Name="HarmonicFilterSettings.vi" Type="VI" URL="../HarmonicFilterSettings.vi"/>
+	<Item Name="InitializeExpectedFrequency.vi" Type="VI" URL="../InitializeExpectedFrequency.vi"/>
 	<Item Name="InterfaceRef.ctl" Type="VI" URL="../InterfaceRef.ctl"/>
 	<Item Name="Locked.vi" Type="VI" URL="../Locked.vi"/>
 	<Item Name="reset.vi" Type="VI" URL="../reset.vi"/>
